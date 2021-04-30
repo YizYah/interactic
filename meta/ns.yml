@@ -1,0 +1,15 @@
+userClass: user
+codeName: MyApp
+template:
+  dir: /home/yisroel/packages/packrat-ts-all/packrat
+  name: null
+  version: 1
+starter: /home/yisroel/packages/interactic-all/interactic.starter
+general:
+  packageName: interactic
+  author: YizYah
+  owner: YizYah
+  description: executes a sequence of interactive processes
+  repositoryName: interactic
+  license: MIT
+  multi: false
